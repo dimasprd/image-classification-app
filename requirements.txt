@@ -1,0 +1,7 @@
+maplotlib
+numpy
+opencv-python
+Pillow
+pandas
+scikit-learn
+streamlit
