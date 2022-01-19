@@ -1,4 +1,4 @@
-maplotlib
+matplotlib
 numpy
 opencv-python
 Pillow
